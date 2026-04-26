@@ -1,7 +1,7 @@
 # TAS-AI: Autonomous Triple-Axis Spectrometer Control
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Public Domain (U.S.)](https://img.shields.io/badge/License-Public%20Domain%20(U.S.)-blue.svg)](https://github.com/williamratcliff-nist/tasai/blob/main/LICENSE)
+[![Public Domain (U.S.)](https://img.shields.io/badge/License-Public%20Domain%20(U.S.)-blue.svg)](https://github.com/usnistgov/tasai/blob/main/LICENSE)
 
 **TAS-AI** is a Python framework for autonomous neutron scattering experiments on triple-axis spectrometers. It combines Bayesian inference, physics-informed models, and active learning to optimize measurement strategies in real-time.
 
@@ -36,7 +36,7 @@ Mamba is significantly faster than conda for dependency resolution:
 
 ```bash
 # Clone repository
-git clone https://github.com/williamratcliff-nist/tasai.git
+git clone https://github.com/usnistgov/tasai.git
 cd tasai
 
 # Create environment with mamba (fast)
@@ -51,7 +51,7 @@ conda activate tasai
 ### Option 2: Pip
 
 ```bash
-git clone https://github.com/williamratcliff-nist/tasai.git
+git clone https://github.com/usnistgov/tasai.git
 cd tasai
 pip install -e ".[all]"
 ```
@@ -172,7 +172,7 @@ If you use TAS-AI in your research, please cite:
   title = {TAS-AI: Autonomous Triple-Axis Spectrometer Control},
   author = {NIST Center for Neutron Research},
   year = {2024},
-  url = {https://github.com/williamratcliff-nist/tasai}
+  url = {https://github.com/usnistgov/tasai}
 }
 ```
 

@@ -18,7 +18,7 @@ Examples:
   tasai simulate             Run simulation demo
   tasai benchmark            Run benchmarks
   
-For more information, see: https://github.com/williamratcliff-nist/tasai
+For more information, see: https://github.com/usnistgov/tasai
         """
     )
     

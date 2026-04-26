@@ -90,10 +90,10 @@ tasai-dashboard = "tasai.dashboard.app:main"
 tasai-proxy = "tasai.proxy_server.server:main"
 
 [project.urls]
-Homepage = "https://github.com/williamratcliff-nist/tasai"
-Documentation = "https://github.com/williamratcliff-nist/tasai/tree/main/docs"
-Repository = "https://github.com/williamratcliff-nist/tasai"
-Issues = "https://github.com/williamratcliff-nist/tasai/issues"
+Homepage = "https://github.com/usnistgov/tasai"
+Documentation = "https://github.com/usnistgov/tasai/tree/main/docs"
+Repository = "https://github.com/usnistgov/tasai"
+Issues = "https://github.com/usnistgov/tasai/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

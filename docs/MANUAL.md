@@ -64,7 +64,7 @@ Mamba provides much faster dependency resolution than conda:
 
 ```bash
 # Clone the repository
-git clone https://github.com/williamratcliff-nist/tasai.git
+git clone https://github.com/usnistgov/tasai.git
 cd tasai
 
 # Create environment with mamba (recommended - much faster)
@@ -82,7 +82,7 @@ conda activate tasai
 
 ```bash
 # Clone the repository
-git clone https://github.com/williamratcliff-nist/tasai.git
+git clone https://github.com/usnistgov/tasai.git
 cd tasai
 
 # Install with all dependencies

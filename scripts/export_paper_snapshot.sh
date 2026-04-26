@@ -55,7 +55,7 @@ cp "$REPO_ROOT/LICENSE" "$SNAPSHOT_DIR/"
 
 cat > "$SNAPSHOT_DIR/SNAPSHOT_PROVENANCE.json" <<EOF
 {
-  "source_repo": "git@github.com:williamratcliff-nist/tasai.git",
+  "source_repo": "git@github.com:usnistgov/tasai.git",
   "source_commit": "$GIT_SHA",
   "source_tag": ${GIT_TAG:+"\"$GIT_TAG\""},
   "snapshot_created_utc": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
